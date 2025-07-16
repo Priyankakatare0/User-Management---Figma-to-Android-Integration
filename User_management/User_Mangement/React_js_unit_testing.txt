@@ -1,0 +1,4 @@
+// Author: Priyanka Katare
+// Scope: Verify that the full User Management page loads with correct filtering functionality
+// Precondition: Component is mounted with a valid list of users containing different roles (Active, Inactive, Admin)
+// Expected Result: User Management page renders with all users listed under “All” tab, and correct filtering works for each tab
